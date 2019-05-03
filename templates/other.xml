@@ -1,0 +1,13 @@
+<templateSet group="other">
+  <template name="main" value="public static void main(String[] args){&#10;  $END$&#10;}" description="main() method declaration" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="GROOVY_DECLARATION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="syso" value="System.out.println(&quot;$END$&quot;);" description="system out println" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
