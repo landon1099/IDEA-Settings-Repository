@@ -3,7 +3,7 @@
     <property name="created">2019-05-03T00:29:16</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.2.5.0.0</property>
-    <property name="modified">2019-05-03T01:09:41</property>
+    <property name="modified">2019-05-05T12:26:34</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <colors>
@@ -11,4 +11,11 @@
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="cb41a" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="cb41a" />
   </colors>
+  <attributes>
+    <option name="TEXT">
+      <value>
+        <option name="BACKGROUND" value="cce8cf" />
+      </value>
+    </option>
+  </attributes>
 </scheme>
