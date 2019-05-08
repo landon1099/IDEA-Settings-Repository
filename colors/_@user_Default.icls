@@ -3,7 +3,7 @@
     <property name="created">2019-05-03T00:29:16</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.2.5.0.0</property>
-    <property name="modified">2019-05-05T12:26:34</property>
+    <property name="modified">2019-05-07T22:36:11</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <colors>
@@ -12,8 +12,20 @@
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="cb41a" />
   </colors>
   <attributes>
+    <option name="HTML_TAG">
+      <value>
+        <option name="BACKGROUND" value="cce8cf" />
+      </value>
+    </option>
+    <option name="HTML_TAG_NAME">
+      <value>
+        <option name="BACKGROUND" value="cce8cf" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="TEXT">
       <value>
+        <option name="FOREGROUND" value="0" />
         <option name="BACKGROUND" value="cce8cf" />
       </value>
     </option>
