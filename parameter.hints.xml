@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="unit.UnitTestBase.UnitTestBase(springXmlpath)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
