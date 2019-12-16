@@ -10,8 +10,12 @@
       <entry key="newform.superclass.history1" value="javax.swing.JFrame" />
       <entry key="newform.superclass" value="javax.swing.JFrame" />
       <entry key="newform.toolkit" value="Swing" />
+      <entry key="properties.expanded.bindings" value="true" />
       <node name="forms">
         <entry key="paletteexpanded1575376583" value="components,containers,windows,menus" />
+        <entry key="selection1576673874" value="table1" />
+        <entry key="selection1677594202" value="table1" />
+        <entry key="selection-1082906638" value="this" />
       </node>
     </node>
   </component>
