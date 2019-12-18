@@ -15,6 +15,7 @@
       <entry key="chooser.addtocategoryid" value="custom" />
       <entry key="properties.expanded.category.readonly" value="true" />
       <entry key="properties.expanded.bindings" value="true" />
+      <entry key="properties.expanded.events" value="true" />
       <node name="forms">
         <entry key="paletteexpanded1575376583" value="components,containers,windows,menus" />
         <entry key="selection1576673874" value="table1" />
@@ -22,6 +23,7 @@
         <entry key="selection-1082906638" value="this" />
         <entry key="paletteexpanded332438297" value="components" />
         <entry key="selection332438297" value="textField1" />
+        <entry key="selection-893904382" value="this" />
       </node>
     </node>
   </component>
